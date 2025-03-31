@@ -1,0 +1,2 @@
+# BiRNAFun-CAN
+predict bifunctionalRNAs
