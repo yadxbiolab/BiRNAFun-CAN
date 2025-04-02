@@ -1,8 +1,8 @@
 # BiRNAFun-CAN
 predict bifunctionalRNAs
-Replace with the correct path
+## Replace with the correct path
 run Model.py
-The correct path should be:
+### The correct path should be:
   BiRNA-CAN
     data
       test-.fasta
